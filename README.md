@@ -53,9 +53,9 @@ La interfaz de Swagger estará disponible en la siguiente URL una vez que el ser
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
-![swaggerp.png](img/swaggerp.png)
-![swaggerp2.png](img/swaggerp2.png)
-![swaggerp3.png](img/swaggerp3.png)
+![swaggerp.png](https://github.com/Felipe-Villalobos/Foro_HUb/blob/main/img/swaggerp.PNG?raw=true)
+![swaggerp2.png](https://github.com/Felipe-Villalobos/Foro_HUb/blob/main/img/swaggerp2.PNG?raw=true)
+![swaggerp3.png](https://github.com/Felipe-Villalobos/Foro_HUb/blob/main/img/swaggerp3.PNG?raw=true)
 
 Una vez ejecutes el proyecto, la aplicación estará disponible en:
 ```
@@ -75,7 +75,7 @@ A continuación, podrás acceder a los siguientes Endpoints principales:
 
 Recuerda primero Logiarte entes de realizar peticiones, ingresando los datos de acuerdo al formato:
 
-![swaggerpL.png](img/swaggerpL.png)
+![swaggerpL.png](https://github.com/Felipe-Villalobos/Foro_HUb/blob/main/img/swaggerpL.PNG?raw=true)
 
 ```
 {
